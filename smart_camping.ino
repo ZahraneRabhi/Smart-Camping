@@ -53,7 +53,6 @@ void verifMouvement() {
       activerAlarme();
     }
   }
-
   if (bouttonVal == HIGH) {
     desactiverAlarme();
   }
