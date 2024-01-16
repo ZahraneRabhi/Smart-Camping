@@ -48,14 +48,10 @@ void loop() {
 }
 
 void verifMouvement() {
-  if (DetecteurVal_1 == HIGH || DetecteurVal_2 == HIGH || DetecteurVal_3 == HIGH) {
-    if (!alarmActive) {
-      activerAlarme();
-    }
+  if (DetecteurVal_1 == HIGH || DetecteurVal_2 == HIGH || DetecteurVal_3 == HIGH) { 
+    if (!alarmActive) { activerAlarme(); }
   }
-  if (bouttonVal == HIGH) {
-    desactiverAlarme();
-  }
+  if (bouttonVal == HIGH) { desactiverAlarme(); }
 }
 
 void activerAlarme() {
