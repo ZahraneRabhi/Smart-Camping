@@ -22,13 +22,13 @@ Ce projet met en œuvre un système de détection de mouvement à l'aide d'Ardui
 5. Exécutez le script Python.
    
 ## Câblage Arduino
-- **pinDetecteur_1 :**  Connectez à la broche 5 sur Arduino.
-- **pinDetecteur_2 :** Connectez à la broche 6 sur Arduino.
-- **pinDetecteur_3 :** Connectez à la broche 7 sur Arduino.
-- **bzzerPin :** Connectez à la broche 12 sur Arduino.
-- **bouttonPin :** Connectez à la broche 8 sur Arduino.
-- **safeLedPin :** Connectez à la broche 2 sur Arduino.
-- **dangerLedPin :** Connectez à la broche 3 sur Arduino.
+- **pinDetecteur_1 :**  Connectez à Pin 5 sur Arduino.
+- **pinDetecteur_2 :** Connectez à Pin 6 sur Arduino.
+- **pinDetecteur_3 :** Connectez à Pin 7 sur Arduino.
+- **bzzerPin :** Connectez à Pin 12 sur Arduino.
+- **bouttonPin :** Connectez à Pin 8 sur Arduino.
+- **safeLedPin :** Connectez à Pin sur Arduino.
+- **dangerLedPin :** Connectez à Pin 3 sur Arduino.
   
 ## Utilisation
 1. Exécutez le script Python pour commencer la surveillance du système de détection de mouvement.
