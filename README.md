@@ -1,4 +1,5 @@
-### Smart Camping
+
+# Smart Camping
 ## Système de Détection de Mouvement avec Arduino basée sur les capacités C++ et Python, visant à valider le module d'Architecture des Ordinateurs pour l'année universitaire 2023/2024.
 
 ![image](https://github.com/ZahraneRabhi/Smart-Camping/assets/88408227/974acf33-38a4-4561-9cf1-626b84329e03)
