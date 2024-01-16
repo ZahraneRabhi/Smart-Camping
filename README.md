@@ -15,9 +15,9 @@ Ce projet met en œuvre un système de détection de mouvement à l'aide d'Ardui
 ![image](https://github.com/ZahraneRabhi/Smart-Camping/assets/88408227/693e9824-2e27-465b-bfc0-32db0c046c18)
 ## Installation
 1. Connectez la carte Arduino à votre ordinateur à l'aide d'un câble USB.
-2. Ouvrez l'IDE Arduino et coller le code C++ fourni (motion_detection_arduino.ino).
+2. Ouvrez l'IDE Arduino et coller le code C++ fourni (smart_camping.ino).
 3. Ouvrez LE compilateur Python de votre choix et collez le script.
-4. Modifiez le script Python (motion_detection_python.py) si nécessaire, en particulier le port série ('COM4') pour correspondre à votre configuration.
+4. Modifiez le script Python (detection_log.py) si nécessaire, en particulier le port série ('COM4') pour correspondre à votre configuration.
 5. Exécutez le script Python.
    
 ## Câblage Arduino
