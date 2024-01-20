@@ -30,8 +30,8 @@ void loop() {
   DetecteurVal_3 = digitalRead(pinDetecteur_3);
   bouttonVal = digitalRead(bouttonPin);
 
-  digitalWrite(safeLedPin, !alarmActive);     // Show safe(Green) LED status
-  digitalWrite(dangerLedPin, alarmActive);    // Show danger(Red) LED status
+  digitalWrite(safeLedPin, !alarmActive);     // Indiquant l'état de sécurité(LED Vert)
+  digitalWrite(dangerLedPin, alarmActive);    // Indiquant l'état de danger(LED Rouge)
   
   verifMouvement();
 
