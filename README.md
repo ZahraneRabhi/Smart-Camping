@@ -36,6 +36,4 @@ Ce projet met en œuvre un système de détection de mouvement à l'aide d'Ardui
 3. Les LEDs indiquent l'état de sécurité (Vert : Sécurisé, Rouge : Danger).
 4. Le Buzzer retentit en cas de détection de mouvement.
 5. Appuyez sur le bouton pour désactiver manuellement l'alarme.
-   
-## Contributeurs
-**Zahrane Rabhi**
+
